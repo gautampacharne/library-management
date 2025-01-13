@@ -4,14 +4,6 @@
 #### This project is built using Java programming language and utilizes object-oriented programming concepts, Java Swings, GUI etc. to create an easy-to-use, efficient, and reliable library management system.
 <br>
 
-## Prerequisites:
-
-#### Change the route as necessary at lines 79, 159, 171, 389 and 441 of the "AddNewBook" java code.
-#### same as goes with file "EditBook" at lines 137, 231 and 329.
-
-#### There is a default welcome message displayed on the admin, faculty, and student pages. You may edit that message from the admin or faculty pages by accessing the Add Notice.
-<br>
-
 ## Users of the System
 
 #### - Admin
@@ -87,7 +79,5 @@
 #### MySQL for the Database
 <br>
 
-## Documentation
 
-### [Please visit my project's wiki to see the documentation.](https://github.com/shantam-verma/Library-Management-System-Java/wiki)
 
